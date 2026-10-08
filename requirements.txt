@@ -1,0 +1,5 @@
+streamlit
+PyPDF2==3.0.1
+python-docx
+scikit-learn
+pandas
