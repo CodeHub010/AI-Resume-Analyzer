@@ -1,6 +1,7 @@
 # 🤖 AI Resume Analyzer & Job Matcher
 
-🚀 **Live Demo:** [Open the AI Resume Analyzer](https://ai-resume-analyzer-wjvw95olhwa7vpjooov99.streamlit.app/)
+🚀 **Live Demo:** [Open the AI Resume Analyzer](https://ai-resume-analyzer-wjwv95olylwa7vpjooov99.streamlit.app/)
+
 An AI-powered resume analysis tool built with Python and Streamlit that analyzes a resume against a job description and identifies matching and missing skills.
 
 ## 🚀 Features
