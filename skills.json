@@ -1,0 +1,37 @@
+{
+    "programming": [
+        "python",
+        "java",
+        "c",
+        "c++",
+        "javascript"
+    ],
+    "data": [
+        "sql",
+        "pandas",
+        "numpy",
+        "excel",
+        "power bi",
+        "tableau"
+    ],
+    "web": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "node.js"
+    ],
+    "ai_ml": [
+        "machine learning",
+        "deep learning",
+        "tensorflow",
+        "pytorch",
+        "scikit-learn",
+        "nlp"
+    ],
+    "cloud": [
+        "aws",
+        "azure",
+        "google cloud"
+    ]
+}
